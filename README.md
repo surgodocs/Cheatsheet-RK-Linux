@@ -19,7 +19,7 @@ up and down arrows = generate previous commands
 `rm directoryname` = just remove that one directory  
 
 ### network 🌐
-`ssh root@123.456.7.8 = Login to a server  
+`ssh root@123.456.7.8` = Login to a server  
 `nslookup` = lookup IP for a domain. I used this often  
 `whois domainname.com` = get who is info  
 `dig domain_name` = detailed information about DNS queries and responses  
