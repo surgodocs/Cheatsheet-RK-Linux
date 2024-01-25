@@ -35,6 +35,7 @@ up and down arrows = generate previous commands
 `whois domainname.com` = get who is info  
 `dig domain_name` = detailed information about DNS queries and responses (takes args)
 `host domainname.com` = I think this is similar to NSLookup  
+`curl ifconfig.me` = get public ip address
 `sudo nano /etc/hosts` = file to map domains to IP  
 `cd /users/MyName/.ssh/` and then `rm known_hosts` = remove known hosts on mac  
 (many DNS related commands in this section)  
